@@ -1,0 +1,4 @@
+CREATE TABLE Genre (
+	GenreId INTEGER PRIMARY KEY,
+	Name TEXT NOT NULL
+	);
