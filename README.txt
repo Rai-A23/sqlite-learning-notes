@@ -8,4 +8,4 @@ Second, follow "Normalization"
     Created new tables and deleted originally created tables.
     Renamed the new tables under original name.
 
-    Also, applied indexes into the newly created tables.
+    Also, applied indexes into the newly created Artists table; Created Indexes for Genre(GenreId).
